@@ -3,7 +3,7 @@ module.exports = {
     {
       name: 'zuk-doc',
       script: 'npm',
-      args: 'run start',
+      args: 'run site',
       cwd: './',
       watch: [
         'src',
